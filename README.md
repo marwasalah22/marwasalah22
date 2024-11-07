@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @marwasalah22
-- 👀 I’m interested to be full stack software devloper
-- 🌱 I’m currently learning javascript 
+- 👀 I’m .net full stack devloper
 - 💞️ I’m looking for intership to make me more proftional at software
 - 📫 How to reach me https://www.linkedin.com/in/marwa-salah-93bb10222/
 
